@@ -1,4 +1,25 @@
 body {
-  background-color: rgb(164, 111, 248);
-  color :black
+  background-color: rgb(224,255,255);
+  color :LightCyan
+}
+
+h1  {
+ 
+    background-color: rgb(32,178,170);
+    color :LightSeaGreen
+  }
+
+
+h4  {
+  
+    background-color: rgb(25,25,112);
+    color :MidnightBlue
+  }
+
+
+h5  {
+
+    background-color: rgb(47,79,79);
+    color :DarkSlateGray
+  
 }
