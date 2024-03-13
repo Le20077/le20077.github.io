@@ -1,25 +1,22 @@
 body {
   background-color: rgb(224,255,255);
-  color :LightCyan
+  color :LightCyan;
 }
 
 h1  {
  
     background-color: rgb(32,178,170);
-    color :LightSeaGreen
-  }
-
+    color : LightCyan;
+   }
 
 h4  {
   
     background-color: rgb(25,25,112);
-    color :MidnightBlue
+    color :LightCyan;
   }
-
 
 h5  {
 
     background-color: rgb(47,79,79);
-    color :DarkSlateGray
-  
+    color :LightCyan;
 }
