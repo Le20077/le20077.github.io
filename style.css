@@ -5,18 +5,18 @@ body {
 
 h1  {
  
-    background-color: rgb(32,178,170);
-    color : LightCyan;
+    background-color: rgb(224,255,255);
+    color : DarkSlateGray;
    }
 
-h4  {
+h3  {
   
-    background-color: rgb(25,25,112);
-    color :LightCyan;
+    background-color: rgb(224,255,255);
+    color :DarkCyan;
   }
 
-h5  {
+h3  {
 
-    background-color: rgb(47,79,79);
-    color :LightCyan;
+    background-color: rgb(224,255,255);
+    color :MidnightBlue;
 }
